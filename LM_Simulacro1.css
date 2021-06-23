@@ -1,0 +1,23 @@
+
+  #general {font-family:Arial; margin-left:4em;
+            background-color:#ffdab9;}
+
+	.cabecera {margin-top:2em;}
+
+  #logo {float:left; height:130px; width:210px;}
+
+  #menux {margin-left:73em; flaot:right}
+  /* Al pasar el cursor sobre los links */
+  a:hover{color:#1E90FF; background-color:black; }
+  /* Links no consultados */
+  a:link{color:#1E90FF; text-decoration:none;}
+	/* Links visitados */
+  a:visited {color:grey; text-decoration:none;}
+
+  .enlaces {margin-top:4em; margin-left:7em; color:#1E90FF; font-size:75px;}
+
+  #presen {margin-left:3.5em; font-style:italic; color:#1E90FF; float:left; font-size:50px;}
+
+  #img_cuerpo {float:left; margin-top:2em;}
+
+  .texto {float:left; font-size:25px; color:#1E90FF;}

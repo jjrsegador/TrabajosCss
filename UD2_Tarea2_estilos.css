@@ -1,0 +1,15 @@
+
+    /* Ponemos color rojo al pasar el cursor sobre los links UNO DOS */
+      a:hover{color:white; background-color:black; }
+	
+	/* Links no consultados */
+	  a:link{text-decoration:none;}
+	
+	/* Links visitados */
+     a:visited {color:grey; text-decoration:none;}
+	
+	#nuevo{color:blue; text-decoration:underline; background-color:white};
+			 
+	
+	
+	 

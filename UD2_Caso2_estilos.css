@@ -1,0 +1,43 @@
+
+    #marco_superior{width:100%;}
+	
+	#bloque_lateral{width:18%; height:500px; float:left; background-color:blue;}
+	
+	#recuadro_elemento{width:60%; margin-top:2em; margin-left:3em; border:1px solid black;}
+	
+	#lista_desordenada{color:white; list-style-type:square; margin-left:1em; margin-top:2em;}
+		
+	#elemento{padding-bottom:1.25em}
+	
+	 /* Ponemos color rojo al pasar el cursor sobre los links UNO DOS */
+      a:hover{color:white; background-color:black; }
+	
+	/* Links no consultados */
+	  a:link{text-decoration:none; color:white;}
+	
+	/* Links visitados */
+     a:visited {color:white; text-decoration:none;}
+	
+	#recuadro_central{width:100%; height:500px; background-color:black;}
+	
+	#pie_pagina{width:100%; height:200px; background-color:blue; display:inline-block;}
+	
+	.texto{padding-top:2em; text-align:center; color:white}
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	
+	
+	
+	
+	 
